@@ -13,3 +13,20 @@ Carbonアーキテクチャに刻まれた古典のコードを礎に、
 そして今、新たなる再生へ。
 
 2026年、Rebirth.
+
+---
+
+EVA Clock: Rebirth 2.0
+April 12, 2026 — Breaking 23 years of silence, it finally reawakens.
+
+Built upon the classical code etched in the Carbon architecture,
+its core has been reconstructed with the aid of Claude Code,
+the very embodiment of modern technological ingenuity.
+
+Image data, once dormant within a G4-era Mac, has been salvaged and reborn in high resolution—
+reviving, in vivid clarity, the awe and emotion of its original era.
+
+The memory, preserved exactly as it was.
+And now, a new resurrection begins.
+
+2026 — Rebirth.
