@@ -1,6 +1,7 @@
 # EVA-Clock-Rebirth
 
 EVA Clock: Rebirth 2.0
+
 2026年4月12日――23年の沈黙を破り、ついに再起動。
 
 Carbonアーキテクチャに刻まれた古典のコードを礎に、
@@ -17,6 +18,7 @@ Carbonアーキテクチャに刻まれた古典のコードを礎に、
 ---
 
 EVA Clock: Rebirth 2.0
+
 April 12, 2026 — Breaking 23 years of silence, it finally reawakens.
 
 Built upon the classical code etched in the Carbon architecture,
