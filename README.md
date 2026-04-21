@@ -1,4 +1,4 @@
-# EVA-Clock-Rebirth
+# EVA Clock Rebirth
 
 EVA Clock: Rebirth 2.0
 
