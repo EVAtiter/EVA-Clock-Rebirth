@@ -15,6 +15,7 @@ Carbonアーキテクチャに刻まれた古典のコードを礎に、
 
 2026年、Rebirth.
 
+<img width="493" height="211" alt="EVA Clock Rebirth" src="https://github.com/user-attachments/assets/db7504a6-fb8d-4783-9b0b-d5bdb88a0d4c" />
 ---
 
 EVA Clock: Rebirth 2.0
