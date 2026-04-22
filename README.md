@@ -1,6 +1,6 @@
-# EVA Clock Rebirth
+# EVA Clock :Rebirth
 
-EVA Clock: Rebirth 2.0
+EVA Clock :Rebirth 2.0
 
 2026年4月12日――23年の沈黙を破り、ついに再起動。
 
