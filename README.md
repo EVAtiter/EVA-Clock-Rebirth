@@ -7,7 +7,7 @@ Unified Window Size Management
 
 ---
 
-###EVA Clock :Rebirth 2.1
+EVA Clock :Rebirth 2.1
 
 New Skin “Rebirth”
 
