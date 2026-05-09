@@ -1,5 +1,5 @@
 # EVA Clock :Rebirth
-EVA Clock :Rebirth 2.2
+###EVA Clock :Rebirth 2.2
 
 Unified Window Size Management
 
@@ -7,7 +7,7 @@ Unified Window Size Management
 
 ---
 
-EVA Clock :Rebirth 2.1
+###EVA Clock :Rebirth 2.1
 
 New Skin “Rebirth”
 
@@ -18,7 +18,7 @@ New Skin “Rebirth”
 
 ---
 
-EVA Clock :Rebirth 2.0
+###EVA Clock :Rebirth 2.0
 
 2026年4月12日――23年の沈黙を破り、ついに再起動。
 
@@ -37,7 +37,7 @@ Carbonアーキテクチャに刻まれた古典のコードを礎に、
 
 ---
 
-EVA Clock: Rebirth 2.0
+###EVA Clock: Rebirth 2.0
 
 April 12, 2026 — Breaking 23 years of silence, it finally reawakens.
 
