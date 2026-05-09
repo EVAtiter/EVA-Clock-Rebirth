@@ -5,6 +5,8 @@ Unified Window Size Management
 
 * Real-time resizing from 25% to 200% using a slider bar
 
+---
+
 EVA Clock :Rebirth 2.1
 
 New Skin “Rebirth”
