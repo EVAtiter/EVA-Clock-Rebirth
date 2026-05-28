@@ -1,17 +1,7 @@
 # EVA Clock :Rebirth
-EVA Clock :Rebirth 2.2
+EVA Clock :Rebirth 2.3
 
-Unified Window Size Management
-
-* Real-time resizing from 25% to 200% using a slider bar
-
----
-
-EVA Clock :Rebirth 2.1
-
-New Skin “Rebirth”
-
-* Skin switching feature
+* Set the size and position for each display individually!
 * Support for adding custom skins as well
 
 <img width="489" height="214" alt="5be7a515051c877f2cd29fc3529e5897" src="https://github.com/user-attachments/assets/8938f0af-ecc2-40d3-b8ec-6e006f16eb02" />
