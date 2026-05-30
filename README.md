@@ -1,14 +1,7 @@
 # EVA Clock :Rebirth
-EVA Clock :Rebirth 2.3
-
-* Set the size and position for each display individually!
-* Support for adding custom skins as well
-
-<img width="489" height="214" alt="5be7a515051c877f2cd29fc3529e5897" src="https://github.com/user-attachments/assets/8938f0af-ecc2-40d3-b8ec-6e006f16eb02" />
-
 ---
 
-EVA Clock :Rebirth 2.0
+EVA Clock :Rebirth
 
 2026年4月12日――23年の沈黙を破り、ついに再起動。
 
@@ -27,7 +20,7 @@ Carbonアーキテクチャに刻まれた古典のコードを礎に、
 
 ---
 
-EVA Clock: Rebirth 2.0
+EVA Clock: Rebirth
 
 April 12, 2026 — Breaking 23 years of silence, it finally reawakens.
 
@@ -42,3 +35,36 @@ The memory, preserved exactly as it was.
 And now, a new resurrection begins.
 
 2026 — Rebirth.
+
+---
+
+## EVA Clock:Rebirth でできること
+
+macOS のデスクトップに、NERV のインターフェースを思わせる時計を常駐させるアプリです。
+ただの“見た目”だけではなく、実用的な情報表示と細かなカスタマイズ性を備えています。
+
+<img width="489" height="214" alt="5be7a515051c877f2cd29fc3529e5897" src="https://github.com/user-attachments/assets/8938f0af-ecc2-40d3-b8ec-6e006f16eb02" />
+
+### 🕐 時刻と「機体ステータス」表示
+- 時・分・秒を LED 風パネルでリアルタイム表示
+- **バッテリー残量・残時間**を表示（MacBook 系）。内部電源／外部電源の切り替えにも演出付きで反応
+- **CPU 負荷**を SNAIL / SLOW / NORMAL / RACING の 4 段階で可視化
+
+### 🎨 スキンで着せ替え自由
+- 同梱の `Legacy`（旧デザイン）／ `Rebirth`（新デザイン）を切り替え可能
+- **自分だけのオリジナルスキンも作れます**（画像 + 設定ファイルだけ／AI 支援の作成プロンプトも用意）
+
+### 🖥 マルチディスプレイ対応
+- 同じ時計を**複数のモニターに同時表示**（「表示ディスプレイ指定・ミラー」機能）
+- 画面ごとにサイズや位置を個別調整できます
+
+### 🪶 軽くて気が利く
+- 常駐していても**動作が軽量・省電力**（複数表示時の負荷も最適化済み）
+- **動画のフルスクリーン再生中は自動で退避**し、終わると元に戻ります
+- 最前面に固定／位置ロック／サイズ変更（25〜200%）など、置き方は思いのまま
+
+### ✅ 安心して使えます
+- **無償**・**Apple 公証済み**（警告なしで起動できます）
+- **Universal バイナリ**（Apple Silicon / Intel 両対応）
+- 対応 OS：**macOS 12.0 Monterey 以降**
+
