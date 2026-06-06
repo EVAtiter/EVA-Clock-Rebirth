@@ -43,7 +43,6 @@ And now, a new resurrection begins.
 macOS のデスクトップに、某組織 のインターフェースを思わせる時計を常駐させるアプリです。
 ただの“見た目”だけではなく、実用的な情報表示と細かなカスタマイズ性を備えています。
 
-<img width="420" height="184" alt="1780764432-MtSnb9HvfhakpQeYOARCy3X1" src="https://github.com/user-attachments/assets/079057bf-d607-479b-a16f-bb31958408c7" />
 
 
 ### 🕐 時刻と「機体ステータス」表示
