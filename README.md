@@ -38,18 +38,26 @@ And now, a new resurrection begins.
 
 ---
 
+## 📥 ダウンロード
+
+[**最新版をダウンロード（GitHub Releases）**](https://github.com/EVAtiter/EVA-Clock-Rebirth/releases/latest)
+
+ZIP を解凍して `EVA Clock Rebirth.app` を `アプリケーション` フォルダへドラッグするだけ。Apple 公証済みのため Gatekeeper の警告なしに起動できます。
+
+---
+
 ## EVA Clock:Rebirth でできること
 
 macOS のデスクトップに、某組織 のインターフェースを思わせる時計を常駐させるアプリです。
 ただの“見た目”だけではなく、実用的な情報表示と細かなカスタマイズ性を備えています。
 
-<img width="480" height="210" alt=" 2026-06-07 2 03 42" src="https://github.com/user-attachments/assets/771468c8-2ff7-49eb-ad80-f73ad9ea8489" />
+<img width="480" height="210" alt="EVA Clock:Rebirth のスクリーンショット" src="https://github.com/user-attachments/assets/771468c8-2ff7-49eb-ad80-f73ad9ea8489" />
 
 ### 🕐 時刻と「機体ステータス」表示
 - 時・分・秒を LED 風パネルでリアルタイム表示
 - **バッテリー残量・残時間**を表示（MacBook 系）。内部電源／外部電源の切り替えにも演出付きで反応
 - **CPU 負荷**を SNAIL / SLOW / NORMAL / RACING の 4 段階で可視化
-- **CPU/GPU/ANE 負荷**を時系列グラフ表示
+- **CPU/GPU/ANE 負荷**を時系列グラフ表示（**LED 背後に重ねる Underlay 表示**も選択可能）
 
 ### 🎨 スキンで着せ替え自由
 - 同梱の `Legacy`（旧デザイン）／ `Rebirth`（新デザイン）を切り替え可能
