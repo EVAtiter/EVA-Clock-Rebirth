@@ -75,5 +75,5 @@ macOS のデスクトップに、某組織 のインターフェースを思わ�
 ### ✅ 安心して使えます
 - **無償**・**Apple 公証済み**（警告なしで起動できます）
 - **Universal バイナリ**（Apple Silicon / Intel 両対応）
-- 対応 OS：**macOS 12.0 Monterey 以降**
+- 対応 OS：**macOS 13.0 Ventura 以降**
 
