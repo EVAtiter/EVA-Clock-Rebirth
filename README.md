@@ -44,6 +44,12 @@ And now, a new resurrection begins.
 
 ZIP を解凍して `EVA Clock Rebirth.app` を `アプリケーション` フォルダへドラッグするだけ。Apple 公証済みのため Gatekeeper の警告なしに起動できます。
 
+Homebrew を使っている方は、こちらでも導入できます。
+
+```
+brew install --cask EVAtiter/tap/eva-clock-rebirth
+```
+
 ---
 
 ## EVA Clock:Rebirth でできること
@@ -56,11 +62,21 @@ macOS のデスクトップに、某組織 のインターフェースを思わ�
 ### 🕐 時刻と「機体ステータス」表示
 - 時・分・秒を LED 風パネルでリアルタイム表示
 - **バッテリー残量・残時間**を表示（MacBook 系）。内部電源／外部電源の切り替えにも演出付きで反応
-- **CPU 負荷**を SNAIL / SLOW / NORMAL / RACING の 4 段階で可視化
-- **CPU/GPU/ANE 負荷**を時系列グラフ表示（**LED 背後に重ねる Underlay 表示**も選択可能）
+- **消費電力**を SNAIL / SLOW / NORMAL / RACING の 4 段階で可視化
+- **CPU 負荷・消費電力**を時系列グラフ表示（Split / Overlay の 2 表示モード）
+- **GPU / ANE 負荷**をゲージ表示（Apple Silicon）
+
+### 📊 メーター単独ウィンドウ
+- 時計とは別に、**メーターだけの小さなウィンドウ**を表示できます
+- サイズ・透明度・表示位置は時計とは独立して設定可能
 
 ### 🎨 スキンで着せ替え自由
-- 同梱の `Legacy`（旧デザイン）／ `Rebirth`（新デザイン）を切り替え可能
+- 同梱スキンは 5 種類。Settings → Skins からいつでも切り替えられます
+  - `Rebirth` … 新デザイン（デフォルト）
+  - `Legacy` … 旧デザイン
+  - `Steampunk` … 真鍮フレームの機械式クロノメーター
+  - `Star Trek` … LCARS 風のブリッジコンソール
+  - `NixieTube` … 冷陰極放電管のオレンジの発光（透明度を上げると管だけがデスクトップに残ります）
 - **自分だけのオリジナルスキンも作れます**（画像 + 設定ファイルだけ／AI 支援の作成プロンプトも用意）
 
 ### 🖥 マルチディスプレイ対応
@@ -74,6 +90,6 @@ macOS のデスクトップに、某組織 のインターフェースを思わ�
 
 ### ✅ 安心して使えます
 - **無償**・**Apple 公証済み**（警告なしで起動できます）
-- **Universal バイナリ**（Apple Silicon / Intel 両対応）
+- **Apple Silicon（arm64）専用**
 - 対応 OS：**macOS 13.0 Ventura 以降**
 
