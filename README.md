@@ -69,7 +69,9 @@ A clock that lives on your macOS desktop, styled after the interface of a certai
   - `Steampunk` … a brass-framed mechanical chronometer. Ten unlit cathode digits sit stacked inside each tube; raise the opacity and only the tubes and their brass sockets remain
   - `Star Trek` … an LCARS-style bridge console. Raise the opacity and only the frame and the digits remain
   - `NixieTube` … the orange glow of cold-cathode tubes. Raise the opacity and only the tubes are left on your desktop
-- **You can build your own skin too** — just images plus a settings file, with an AI-assisted authoring prompt provided
+- **You can build your own skin too** — just images plus a settings file. See
+  **[SkinGuide.md](SkinGuide.md)** (Japanese) for the full format reference and a
+  copy-paste prompt that lets an AI generate the layout file for you
 
 ### 🖥 Multi-display support
 - Show the clock on **several monitors at once** ("display targets / mirror" feature)
