@@ -1,22 +1,6 @@
 # EVA Clock :Rebirth
----
 
-EVA Clock :Rebirth
-
-2026年4月12日――23年の沈黙を破り、ついに再起動。
-
-Carbonアーキテクチャに刻まれた古典のコードを礎に、
-現代文明の叡智たる Claude Code の力を借りてコアを再構築。
-
-さらに、G4世代のMacに眠っていた画像データをサルベージし、
-高解像度化によって、あの時代の衝撃と感動を鮮やかに再臨させた。
-
-かつての記憶を、そのままに。
-そして今、新たなる再生へ。
-
-2026年、Rebirth.
-
-<img width="493" height="211" alt="EVA Clock Rebirth" src="https://github.com/user-attachments/assets/db7504a6-fb8d-4783-9b0b-d5bdb88a0d4c" />
+**English** | [日本語](README.ja.md)
 
 ---
 
@@ -36,60 +20,67 @@ And now, a new resurrection begins.
 
 2026 — Rebirth.
 
+<img width="493" height="211" alt="EVA Clock Rebirth" src="https://github.com/user-attachments/assets/db7504a6-fb8d-4783-9b0b-d5bdb88a0d4c" />
+
 ---
 
-## 📥 ダウンロード
+## 📥 Download
 
-[**最新版をダウンロード（GitHub Releases）**](https://github.com/EVAtiter/EVA-Clock-Rebirth/releases/latest)
+[**Download the latest release (GitHub Releases)**](https://github.com/EVAtiter/EVA-Clock-Rebirth/releases/latest)
 
-ZIP を解凍して `EVA Clock Rebirth.app` を `アプリケーション` フォルダへドラッグするだけ。Apple 公証済みのため Gatekeeper の警告なしに起動できます。
+Unzip the archive and drag `EVA Clock Rebirth.app` into your `Applications` folder. The app is notarized by Apple, so it launches without any Gatekeeper warning.
 
-Homebrew を使っている方は、こちらでも導入できます。
+If you use Homebrew, you can install it this way instead.
 
 ```
 brew install --cask EVAtiter/tap/eva-clock-rebirth
 ```
 
+To update an existing Homebrew installation:
+
+```
+brew update && brew upgrade --cask EVAtiter/tap/eva-clock-rebirth
+```
+
 ---
 
-## EVA Clock:Rebirth でできること
+## What EVA Clock:Rebirth Can Do
 
-macOS のデスクトップに、某組織 のインターフェースを思わせる時計を常駐させるアプリです。
-ただの“見た目”だけではなく、実用的な情報表示と細かなカスタマイズ性を備えています。
+A clock that lives on your macOS desktop, styled after the interface of a certain organization. It is not just a look — it shows genuinely useful information and can be customized down to the details.
 
-<img width="480" height="210" alt="EVA Clock:Rebirth のスクリーンショット" src="https://github.com/user-attachments/assets/771468c8-2ff7-49eb-ad80-f73ad9ea8489" />
+<img width="480" height="210" alt="EVA Clock:Rebirth screenshot" src="https://github.com/user-attachments/assets/771468c8-2ff7-49eb-ad80-f73ad9ea8489" />
 
-### 🕐 時刻と「機体ステータス」表示
-- 時・分・秒を LED 風パネルでリアルタイム表示
-- **バッテリー残量・残時間**を表示（MacBook 系）。内部電源／外部電源の切り替えにも演出付きで反応
-- **消費電力**を SNAIL / SLOW / NORMAL / RACING の 4 段階で可視化
-- **CPU 負荷・消費電力**を時系列グラフ表示（Split / Overlay の 2 表示モード）
-- **GPU / ANE 負荷**をゲージ表示（Apple Silicon）
+### 🕐 Time and "unit status" readout
+- Hours, minutes and seconds on an LED-style panel, updated in real time
+- **Battery level and remaining time** (MacBook models). Switching between internal and external power triggers an animation
+- **Power draw** shown in four stages: SNAIL / SLOW / NORMAL / RACING
+- **CPU load and power draw** as a time-series graph (Split / Overlay display modes)
+- **GPU / ANE load** as gauges (Apple Silicon)
 
-### 📊 メーター単独ウィンドウ
-- 時計とは別に、**メーターだけの小さなウィンドウ**を表示できます
-- サイズ・透明度・表示位置は時計とは独立して設定可能
+### 📊 Standalone meter window
+- A **small meter-only window**, separate from the clock
+- Size, opacity and position are configured independently from the clock
 
-### 🎨 スキンで着せ替え自由
-- 同梱スキンは 5 種類。Settings → Skins からいつでも切り替えられます
-  - `Rebirth` … 新デザイン（デフォルト）
-  - `Legacy` … 旧デザイン
-  - `Steampunk` … 真鍮フレームの機械式クロノメーター
-  - `Star Trek` … LCARS 風のブリッジコンソール
-  - `NixieTube` … 冷陰極放電管のオレンジの発光（透明度を上げると管だけがデスクトップに残ります）
-- **自分だけのオリジナルスキンも作れます**（画像 + 設定ファイルだけ／AI 支援の作成プロンプトも用意）
+### 🎨 Dress it up with skins
+- Five skins are bundled. Switch from **Settings → Clock → Appearance → Skin**, or by **right-clicking the clock → Skins**
+- **Since v2.14.0, the skin is a per-window setting.** When you show clocks on several monitors, each one can wear a different skin
+  - `Rebirth` … the new design (default)
+  - `Legacy` … the original design
+  - `Steampunk` … a brass-framed mechanical chronometer. Ten unlit cathode digits sit stacked inside each tube; raise the opacity and only the tubes and their brass sockets remain
+  - `Star Trek` … an LCARS-style bridge console. Raise the opacity and only the frame and the digits remain
+  - `NixieTube` … the orange glow of cold-cathode tubes. Raise the opacity and only the tubes are left on your desktop
+- **You can build your own skin too** — just images plus a settings file, with an AI-assisted authoring prompt provided
 
-### 🖥 マルチディスプレイ対応
-- 同じ時計を**複数のモニターに同時表示**（「表示ディスプレイ指定・ミラー」機能）
-- 画面ごとにサイズや位置を個別調整できます
+### 🖥 Multi-display support
+- Show the clock on **several monitors at once** ("display targets / mirror" feature)
+- **Size, position, opacity and skin are all adjusted per window**
 
-### 🪶 軽くて気が利く
-- 常駐していても**動作が軽量・省電力**（複数表示時の負荷も最適化済み）
-- **動画のフルスクリーン再生中は自動で退避**し、終わると元に戻ります
-- 最前面に固定／位置ロック／サイズ変更（25〜200%）など、置き方は思いのまま
+### 🪶 Light and considerate
+- **Light on CPU and power** even while resident (the multi-window case is optimized too)
+- **Steps aside automatically during fullscreen video** and comes back when you are done
+- Keep on top, lock the position, resize from 25% to 200% — place it however you like
 
-### ✅ 安心して使えます
-- **無償**・**Apple 公証済み**（警告なしで起動できます）
-- **Apple Silicon（arm64）専用**
-- 対応 OS：**macOS 13.0 Ventura 以降**
-
+### ✅ Safe to use
+- **Free** and **notarized by Apple** (launches without warnings)
+- **Apple Silicon (arm64) only**
+- Requires **macOS 13.0 Ventura or later**
