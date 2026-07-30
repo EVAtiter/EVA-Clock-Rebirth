@@ -2,18 +2,16 @@
 
 **English** | [日本語](PRIVACY.ja.md)
 
-Last updated: July 28, 2026
+Last updated: July 30, 2026
 
-This policy covers the following macOS applications developed by EVA·Titer:
-
-- **EVA Clock:Rebirth**
-- **EVA Clock Nixie**
+This policy applies to **EVA Clock Nixie**, a macOS application developed by
+EVA·Titer.
 
 ---
 
 ## We do not collect any data
 
-These applications **do not collect, store, transmit, or share any personal
+This application **does not collect, store, transmit, or share any personal
 information or usage data whatsoever.**
 
 Specifically:
@@ -21,13 +19,13 @@ Specifically:
 - No analytics, telemetry, crash reporting, or usage tracking
 - No advertising and no advertising identifiers
 - No user accounts, sign-in, or registration
-- No network communication of any kind — the applications never connect to the
+- No network communication of any kind — the application never connects to the
   internet or to any server operated by the developer or a third party
 - No access to your contacts, calendars, photos, location, microphone, or camera
 
 ## Data stored on your Mac
 
-The applications save your preferences — such as window position, size,
+The application saves your preferences — such as window position, size,
 transparency, 12/24-hour display, and chime settings — locally on your Mac
 using the standard macOS preferences system (`UserDefaults`).
 
@@ -36,19 +34,19 @@ Removing the application and its preference file deletes it completely.
 
 ## App Sandbox
 
-**EVA Clock Nixie** runs inside the macOS App Sandbox with no additional
+The application runs inside the macOS App Sandbox with no additional
 entitlements. It cannot read your documents, access the network, or use the
 camera or microphone — these capabilities are withheld at the operating system
 level, not merely unused by our code.
 
 ## Third parties
 
-These applications contain no third-party SDKs, frameworks, or services.
+This application contains no third-party SDKs, frameworks, or services.
 
 ## Changes to this policy
 
 If this policy changes, the revised version will be published on this page with
-an updated date. Because the applications collect no data, any change is
+an updated date. Because the application collects no data, any change is
 expected to be clarifying rather than substantive.
 
 ## Contact
