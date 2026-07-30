@@ -25,21 +25,18 @@ Carbonアーキテクチャに刻まれた古典のコードを礎に、
 
 ## 📥 ダウンロード
 
-[**最新版をダウンロード（GitHub Releases）**](https://github.com/EVAtiter/EVA-Clock-Rebirth/releases/latest)
+**公開を終了しました。**
 
-ZIP を解凍して `EVA Clock Rebirth.app` を `アプリケーション` フォルダへドラッグするだけ。Apple 公証済みのため Gatekeeper の警告なしに起動できます。
+2026年4月に23年ぶりに再起動し、Claude Code とともに現在の macOS へ合わせて
+作り込んでいく過程を、存分に楽しませてもらいました。
 
-Homebrew を使っている方は、こちらでも導入できます。
+ただ、この時計のモチーフは私自身の著作物ではありません。こうしたものを個人が
+公開しておくことについて、社会の状況は20年前とは変わりました。ニキシー管の時計だけを
+取り出した **EVA Clock Nixie** の公開を機に、この時計はもう一度、思い出の中に
+しまっておくことにします。
 
-```
-brew install --cask EVAtiter/tap/eva-clock-rebirth
-```
-
-すでに Homebrew で入れている場合の更新は次のとおりです。
-
-```
-brew update && brew upgrade --cask EVAtiter/tap/eva-clock-rebirth
-```
+すでにダウンロードされたぶんは、そのままお使いいただけます。
+長らくありがとうございました。
 
 ---
 
