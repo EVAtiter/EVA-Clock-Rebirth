@@ -26,21 +26,18 @@ And now, a new resurrection begins.
 
 ## 📥 Download
 
-[**Download the latest release (GitHub Releases)**](https://github.com/EVAtiter/EVA-Clock-Rebirth/releases/latest)
+**Distribution has ended.**
 
-Unzip the archive and drag `EVA Clock Rebirth.app` into your `Applications` folder. The app is notarized by Apple, so it launches without any Gatekeeper warning.
+In April 2026 this clock awoke after 23 years of silence, and rebuilding it for
+today's macOS alongside Claude Code was a genuine pleasure from start to finish.
 
-If you use Homebrew, you can install it this way instead.
+That said, the motif this clock is built around is not my own work. The climate
+around publishing something like this as an individual is not what it was twenty
+years ago. With the release of **EVA Clock Nixie** — which carries over only the
+nixie tube clock itself — I have decided to put this one back where it came from:
+my own memories.
 
-```
-brew install --cask EVAtiter/tap/eva-clock-rebirth
-```
-
-To update an existing Homebrew installation:
-
-```
-brew update && brew upgrade --cask EVAtiter/tap/eva-clock-rebirth
-```
+Copies already downloaded will continue to work. Thank you for the long ride.
 
 ---
 
