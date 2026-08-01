@@ -37,7 +37,7 @@ years ago. With the release of **EVA Clock Nixie** — which carries over only t
 nixie tube clock itself — I have decided to put this one back where it came from:
 my own memories.
 
-Copies already downloaded will continue to work. Thank you for the long ride.
+Thank you for the long ride.
 
 ---
 
